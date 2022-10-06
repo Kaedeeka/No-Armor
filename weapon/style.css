@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body {display: block; background-color: rgb(255, 255, 255);}
+body header{height: auto; display: block; top: 0;margin: -8px;margin-top: -37px;margin-right: 1px;}
+p{ 
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+table{
+    width: 100%; border: 0; border-collapse: collapse;
+}
+.table2{
+    width: 100%; border: 0; height: 100%; padding: 2%;
+}
+div div main {
+    table-layout: fixed; width: 90%;padding-left: 8%;
+}
+section {
+    table-layout: fixed; width: 90%;padding-left: 8%;
+}
+th,td{
+    border: solid 1px; padding: 10px;
+}
+th{
+    width: 27%;
+}
+.right {color: #00ffff;font-family: 'M PLUS 1p';font-size: 130%;}
+header p {font-size: 150%; padding: 0.5em;background-color: rgba(0, 0, 0, 0.5);color: #eeff00;border-left: solid 5px rgb(151, 2, 180);font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "ＭＳ Ｐゴシック", "MS PGothic", "Sans-Serif";}
+.hometxt {display: block; padding: 1em; text-align: center;margin-left: -8px;margin-top: -20px;height: 30px; font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "ＭＳ Ｐゴシック", "MS PGothic", "Sans-Serif";background-color: #333;}
+.mainpage { display: block;margin-left: -20px;width: auto; margin-top: 0px; font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "ＭＳ Ｐゴシック", "MS PGothic", "Sans-Serif";}
+.box {display: block; font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", "ＭＳ Ｐゴシック", "MS PGothic", "Sans-Serif";}
+
+.box_flame {
+    background-color: #000066; padding: 10px; display: flex; margin-bottom: 5px;
+}
+.text_box{ padding-left: 10px; color: #ffffff;
+}
+.box_name{
+    font-size: 150%; color: #eeff00;
+}
